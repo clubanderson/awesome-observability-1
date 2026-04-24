@@ -12,6 +12,7 @@ This list contains tools and resources on observability. Want to contribute? Cre
 4. [Honeycomb](https://www.honeycomb.io/): An observability tool that helps in understanding complex systems by providing a unified view of metrics, logs, and traces.
 5. [Lightstep](https://docs.lightstep.com/): An observability tool that provides real-time insights into application performance and infrastructure health.
 6. [Retrace](https://stackify.com/retrace/): A tool that delivers real-time application performance monitoring and log analytics.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 
 ### Monitoring
